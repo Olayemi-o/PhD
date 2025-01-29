@@ -1,4 +1,5 @@
 LOCALISED ENSEMBLE LEARNING (LEL) 
+---------------------------------
 Global approaches, while effective in addressing overall class im-balance, often fail to account for the nuanced distributions and localized characteristics of minority classes. Inspired
 by this limitation, researchers have shifted their focus toward localized methods, which prioritize identifying and preserving the unique patterns of minority instances within their local
 neighborhoods. LEL incorporates this philosophy into a three-phase process:
